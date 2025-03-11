@@ -1,4 +1,4 @@
-import { TableProps, TableData } from "@/types/components.types";
+import { TableProps } from "@/types/components.types";
 import { NumerologyValue } from "@/types/schema.types";
 
 export default async function Table<T extends NumerologyValue>(
